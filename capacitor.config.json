@@ -4,13 +4,29 @@
   "webDir": "www",
   "server": {
     "url": "https://nesticampus.com/app",
-    "allowNavigation": ["nesticampus.com", "*.nesticampus.com"],
+    "allowNavigation": [
+      "nesticampus.com",
+      "*.nesticampus.com"
+    ],
     "errorPath": "index.html"
   },
-  "android": { "allowMixedContent": false },
-  "ios": { "contentInset": "always" },
+  "android": {
+    "allowMixedContent": false,
+    "adjustMarginsForEdgeToEdge": "force"
+  },
+  "ios": {
+    "contentInset": "always"
+  },
   "plugins": {
-    "SplashScreen": { "launchShowDuration": 800, "backgroundColor": "#0E3B35", "showSpinner": false },
-    "StatusBar": { "style": "LIGHT", "backgroundColor": "#0E3B35" }
+    "SplashScreen": {
+      "launchShowDuration": 800,
+      "backgroundColor": "#0E3B35",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#F6F4EF",
+      "overlaysWebView": false
+    }
   }
 }
