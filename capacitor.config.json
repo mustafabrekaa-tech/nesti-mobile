@@ -1,0 +1,16 @@
+{
+  "appId": "com.nesticampus.app",
+  "appName": "NESTI",
+  "webDir": "www",
+  "server": {
+    "url": "https://nesticampus.com/app",
+    "allowNavigation": ["nesticampus.com", "*.nesticampus.com"],
+    "errorPath": "index.html"
+  },
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "always" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 800, "backgroundColor": "#0E3B35", "showSpinner": false },
+    "StatusBar": { "style": "LIGHT", "backgroundColor": "#0E3B35" }
+  }
+}
