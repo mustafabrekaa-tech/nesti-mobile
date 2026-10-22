@@ -3,7 +3,7 @@
   "direction": "console",
   "generated": "2026-10-22",
   "base_url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/console",
-  "count": 6,
+  "count": 7,
   "items": [
     {
       "id": "con-1-overview",
@@ -64,6 +64,16 @@
       "caption": "التحصيل نادرًا ما يكون مشكلة نيّة — غالبًا هو مشكلة تذكير.\n\nتذكير في موعده، وإيصال محفوظ، وسِجل يُثبت أن التذكير وصل.\n\nCollection is rarely a willingness problem. A reminder that arrives on time, a receipt that stays findable, and a log that proves it was sent.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
       "alt": "التحصيل نادرًا ما يكون مشكلة نيّة — غالبًا هو مشكلة تذكير.",
       "note": "Illustrative demo data — not a real school's figures"
+    },
+    {
+      "id": "con-reel-console",
+      "file": "reel-console.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/console/reel-console.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "caption": "ما الذي يفتحه مدير التشغيل الساعة الثامنة؟\n\nالحضور، والباصات، والإشعارات، والرسوم — ثم الشاشة التي تُنهي أصعب نقاش: «لم يُبلغني أحد».\n\nكل إشعار له وقت، ومُستقبِل، وسِجل.\n\nThe morning console, then the screen that ends the argument.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "لوحة نستي ثم سجل الإشعارات",
+      "note": "15.6s · silent — add audio in-app before publishing · illustrative demo data"
     }
   ]
 }
