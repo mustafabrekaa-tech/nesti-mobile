@@ -1,0 +1,128 @@
+{
+  "audience": "schools",
+  "generated": "2026-10-22",
+  "base_url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school",
+  "count": 12,
+  "items": [
+    {
+      "id": "sch-01-proof",
+      "file": "sch-01-proof.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/sch-01-proof.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "وليّ الأمر يقول: لم يُبلغني أحد.\nالإدارة تقول: أبلغناه بالفعل.\nولا أحد يملك ما يُثبت.\n\nفي نستي، لكل إشعار وقت ومُستقبِل وسِجل. النقاش ينتهي قبل أن يبدأ.\n\nThe parent says nobody told them. The school says they did. Neither has a record.\n\nEvery notification carries a timestamp, a recipient and a log.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "وليّ الأمر يقول: لم يُبلغني أحد.",
+      "note": ""
+    },
+    {
+      "id": "sch-02-calls",
+      "file": "sch-02-calls.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/sch-02-calls.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "سؤال واحد، يتكرر سبعًا وأربعين مرة قبل الظهر.\n\nالمشكلة ليست في الأهالي — المعلومة موجودة لديكم بالفعل، لكنها لا تصل إليهم ما لم يتصلوا.\n\nحين تصل وحدها، يتفرّغ المكتب لعمله الحقيقي.\n\nOne question, asked forty-seven times before noon. The information already exists inside the school. It just doesn't travel unless somebody dials.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "سؤال واحد، يتكرر سبعًا وأربعين مرة قبل الظهر.",
+      "note": "Illustrative call log — not data from a real school"
+    },
+    {
+      "id": "sch-03-systems",
+      "file": "sch-03-systems.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/sch-03-systems.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "اسأل مدير التشغيل أين يُسجَّل الحضور، وستحصل على إجابة مختلفة عن إجابته بشأن الرسوم أو الباصات.\n\nكل واحد منها في مكانه الصحيح منفردًا. ومجتمعةً هي ستة أماكن، ولا أحد يملك الربط بينها.\n\nEach system is right on its own. Together they are six places, and nobody owns the join.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "اسأل مدير التشغيل أين يُسجَّل الحضور، وستحصل على إجابة مختلفة عن إجابته بشأن الرسوم أو الب",
+      "note": ""
+    },
+    {
+      "id": "sch-04-fees",
+      "file": "sch-04-fees.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/sch-04-fees.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "تأخّر التحصيل نادرًا ما يكون مشكلة نيّة. غالبًا هو مشكلة تذكير.\n\nإشعار في موعده، وإيصال محفوظ، وكشف يُراجَع في دقيقة بدل يوم كامل.\n\nA notice that arrives on time, a receipt that stays findable, and a position you can reconcile in a minute instead of a day.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "تأخّر التحصيل نادرًا ما يكون مشكلة نيّة. غالبًا هو مشكلة تذكير.",
+      "note": ""
+    },
+    {
+      "id": "sch-05-enrollment",
+      "file": "sch-05-enrollment.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/sch-05-enrollment.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "في موسم التسجيل، يقارن الأهالي ما يستطيعون رؤيته.\n\nالمناهج متقاربة. المباني متقاربة. الرسوم متقاربة.\n\nالفارق الذي يلاحظونه من اليوم الأول: هل تعرف المدرسة كيف تُبقيهم على اطّلاع؟\n\nAt enrollment, parents compare what they can see. What they notice on day one is whether the school knows how to keep them informed.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "في موسم التسجيل، يقارن الأهالي ما يستطيعون رؤيته.",
+      "note": ""
+    },
+    {
+      "id": "sch-06-road",
+      "file": "sch-06-road.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/sch-06-road.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "أعلى المخاطر التشغيلية في أي مدرسة ليست داخل الفصل. إنها على الطريق.\n\nكل صعود ونزول مُسجَّل، وكل خط له مشرف وتوقيت موثّق.\n\nليس من أجل طمأنة الأهالي فقط — بل من أجل ملف المدرسة نفسه حين يُسأل.\n\nEvery boarding and drop-off logged, every route with a named supervisor and a documented time. So the school has an answer when it is asked for one.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "أعلى المخاطر التشغيلية في أي مدرسة ليست داخل الفصل. إنها على الطريق.",
+      "note": ""
+    },
+    {
+      "id": "sch-07-keyperson",
+      "file": "sch-07-keyperson.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/sch-07-keyperson.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "ماذا يحدث إذا غابت الموظفة التي «تعرف كل شيء» لأسبوع؟\n\nإن كانت المعرفة في رأسها، تتوقف المدرسة.\nوإن كانت في النظام، لا يتوقف شيء.\n\nIf the knowledge lives in her head, the school stops. If it lives in the system, nothing does.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "ماذا يحدث إذا غابت الموظفة التي «تعرف كل شيء» لأسبوع؟",
+      "note": ""
+    },
+    {
+      "id": "sch-08-twoweeks",
+      "file": "sch-08-twoweeks.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/sch-08-twoweeks.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "أكثر سؤال نسمعه من المدارس: كم سيعطّلنا هذا؟\n\nأسبوعان. بياناتكم تُنقل كما هي، والفريق يتدرّب في جلستين، والترم الثاني يبدأ والنظام يعمل.\n\nلا نطلب منكم تغيير طريقة إدارتكم — نطلب فقط أن تكون في مكان واحد.\n\nTwo weeks. Your data moves as it stands, your team trains in two sessions. We are not asking you to change how you run the school. Only where it lives.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "أكثر سؤال نسمعه من المدارس: كم سيعطّلنا هذا؟",
+      "note": ""
+    },
+    {
+      "id": "sch-09-december",
+      "file": "sch-09-december.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/sch-09-december.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "البداية النظيفة في الترم الثاني تُقرَّر في ديسمبر، لا في يناير.\n\nالمدارس التي ستبدأ الترم بنظام جديد تتحدث إلينا هذا الشهر.\n\nThe schools that will open next term on a new system are talking to us now.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "البداية النظيفة في الترم الثاني تُقرَّر في ديسمبر، لا في يناير.",
+      "note": ""
+    },
+    {
+      "id": "sch-reel-proof",
+      "file": "reel-accountability.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/reel-accountability.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "caption": "وليّ الأمر يقول: لم يُبلغني أحد. والإدارة تقول: أبلغناه.\n\nلا أحد يملك ما يُثبت — وهذه وحدها تكلّف المدرسة موقعها، حتى حين تكون قد أدّت كل ما عليها.\n\nBeing right and being able to show it are not the same thing.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "وليّ الأمر يقول: لم يُبلغني أحد. والإدارة تقول: أبلغناه.",
+      "note": "18s · silent — add audio in-app before publishing"
+    },
+    {
+      "id": "sch-reel-systems",
+      "file": "reel-six-systems.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/reel-six-systems.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "caption": "ستة أنظمة في مكتب المدرسة، ولا واحد منها يتحدث مع الآخر.\n\nهذا ليس فشلًا تقنيًا — هكذا نمت الإدارة المدرسية، مشكلة تُحَل في كل مرة.\n\nSix systems, none of them talking. Not a technology failure — just how school administration grew.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "ستة أنظمة في مكتب المدرسة، ولا واحد منها يتحدث مع الآخر.",
+      "note": "16s · silent — add audio in-app before publishing"
+    },
+    {
+      "id": "sch-reel-december",
+      "file": "reel-december.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/school/reel-december.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "caption": "الترم الثاني لا يبدأ في يناير — بل يُقرَّر في ديسمبر.\n\nأسبوعان من أول مكالمة حتى أول يوم دراسي على نستي.\n\nDecember decides, January prepares, Term 2 opens running.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "الترم الثاني لا يبدأ في يناير — بل يُقرَّر في ديسمبر.",
+      "note": "11s · silent — add audio in-app before publishing"
+    }
+  ]
+}
