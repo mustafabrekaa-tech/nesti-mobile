@@ -1,0 +1,69 @@
+{
+  "audience": "schools",
+  "direction": "console",
+  "generated": "2026-10-22",
+  "base_url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/console",
+  "count": 6,
+  "items": [
+    {
+      "id": "con-1-overview",
+      "file": "con-1-overview.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/console/con-1-overview.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "ما الذي يفتحه مدير التشغيل الساعة الثامنة؟\n\nالحضور، والباصات، والإشعارات، والرسوم — في شاشة واحدة، قبل أن يبدأ التليفون في الرنين.\n\nAttendance, buses, notifications and fees on one screen, before the phone starts ringing.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "ما الذي يفتحه مدير التشغيل الساعة الثامنة؟",
+      "note": "Illustrative demo data — not a real school's figures"
+    },
+    {
+      "id": "con-2-log",
+      "file": "con-2-log.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/console/con-2-log.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "وليّ الأمر يقول: لم يُبلغني أحد.\n\nهذه هي الشاشة التي تُنهي النقاش. كل إشعار له عنوان، وعدد من استلموه، ووقت، وحالة تسليم.\n\nلست مضطرًا لتتذكّر. النظام يتذكّر.\n\nThis is the screen that ends the argument. Every notice has a recipient count, a timestamp and a delivery state.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "وليّ الأمر يقول: لم يُبلغني أحد.",
+      "note": "Illustrative demo data — not a real school's figures"
+    },
+    {
+      "id": "con-3-routes",
+      "file": "con-3-routes.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/console/con-3-routes.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "أعلى المخاطر التشغيلية في أي مدرسة على الطريق، لا في الفصل.\n\nكل خط له مشرف، ومحطات، وتوقيت موثّق — لحظة بلحظة، لا بعد انتهاء اليوم.\n\nEvery route with a named supervisor, its stops and a documented time — live, not reconstructed after the fact.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "أعلى المخاطر التشغيلية في أي مدرسة على الطريق، لا في الفصل.",
+      "note": "Illustrative demo data — not a real school's figures"
+    },
+    {
+      "id": "con-4-attendance",
+      "file": "con-4-attendance.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/console/con-4-attendance.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "الحضور يُقفل الساعة ٨:٠٥، ومن تغيّب يعرف أهله قبل ٨:١٠.\n\nلا مكالمات، ولا كشوف تُراجَع آخر اليوم، ولا أسرة تكتشف الغياب مساءً.\n\nThe register closes at 8:05 and the families of absentees know by 8:10.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "الحضور يُقفل الساعة ٨:٠٥، ومن تغيّب يعرف أهله قبل ٨:١٠.",
+      "note": "Illustrative demo data — not a real school's figures"
+    },
+    {
+      "id": "con-5-student",
+      "file": "con-5-student.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/console/con-5-student.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "«ابني كان فين النهاردة؟»\n\nسؤال كان يحتاج البحث في ستة أماكن. الآن له إجابة واحدة، في ثانيتين، أمام من يرد على الهاتف.\n\nA question that used to mean searching six places. Now it has one answer, in two seconds, in front of whoever picks up the phone.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "«ابني كان فين النهاردة؟»",
+      "note": "Illustrative demo data — not a real school's figures"
+    },
+    {
+      "id": "con-6-fees",
+      "file": "con-6-fees.png",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/console/con-6-fees.png",
+      "format": "post",
+      "audience": "schools",
+      "caption": "التحصيل نادرًا ما يكون مشكلة نيّة — غالبًا هو مشكلة تذكير.\n\nتذكير في موعده، وإيصال محفوظ، وسِجل يُثبت أن التذكير وصل.\n\nCollection is rarely a willingness problem. A reminder that arrives on time, a receipt that stays findable, and a log that proves it was sent.\n\nnesticampus.com · info@nesticampus.com\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "التحصيل نادرًا ما يكون مشكلة نيّة — غالبًا هو مشكلة تذكير.",
+      "note": "Illustrative demo data — not a real school's figures"
+    }
+  ]
+}
