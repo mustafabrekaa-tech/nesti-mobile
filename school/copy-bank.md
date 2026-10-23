@@ -146,8 +146,8 @@ only one that costs reputation rather than time.*
 
 > أكثر سؤال نسمعه من المدارس: كم سيعطّلنا هذا؟
 >
-> أسبوعان. بياناتكم تُنقل كما هي، والفريق يتدرّب في جلستين، والترم الثاني
-> يبدأ والنظام يعمل.
+> أربعة أسابيع. مراجعة احتياجاتكم، ثم نقل البيانات كما هي، ثم تدريب الفريق،
+> ثم تشغيل تجريبي قبل الانطلاق.
 >
 > لا نطلب منكم تغيير طريقة إدارتكم — نطلب فقط أن تكون في مكان واحد.
 
@@ -155,8 +155,8 @@ only one that costs reputation rather than time.*
 
 > The question we hear most from schools: how much will this disrupt us?
 >
-> Two weeks. Your data moves as it stands, your team trains in two sessions,
-> and Term 2 opens with the system already running.
+> Four weeks. Your data moves as it stands and your team trains along the
+> way, so Term 2 opens with the system already running.
 >
 > We are not asking you to change how you run the school. Only where it lives.
 
