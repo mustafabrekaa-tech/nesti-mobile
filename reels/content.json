@@ -1,0 +1,129 @@
+{
+  "audience": "schools",
+  "direction": "console",
+  "generated": "2026-10-23",
+  "base_url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels",
+  "count": 10,
+  "items": [
+    {
+      "id": "r01-morning",
+      "file": "r01-morning.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r01-morning.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "صباح المدرسة في شاشة واحدة",
+      "duration_s": 15.8,
+      "caption": "ما الذي يفتحه مدير التشغيل الساعة الثامنة؟\n\nالحضور، والباصات، والإشعارات، والرسوم — ثم الشاشة التي تُنهي أصعب نقاش: «لم يُبلغني أحد».\n\nThe morning console, then the screen that ends the argument.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "صباح المدرسة في شاشة واحدة",
+      "note": "Illustrative demo data · synthesised sound design"
+    },
+    {
+      "id": "r02-routes",
+      "file": "r02-routes.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r02-routes.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "الخطوط لحظة بلحظة",
+      "duration_s": 10.6,
+      "caption": "أعلى المخاطر التشغيلية في أي مدرسة على الطريق، لا في الفصل.\n\nكل خط له مشرف، ومحطات، وتوقيت موثّق — لحظة بلحظة.\n\nEvery route with a named supervisor and a documented time.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "الخطوط لحظة بلحظة",
+      "note": "Illustrative demo data · synthesised sound design"
+    },
+    {
+      "id": "r03-student",
+      "file": "r03-student.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r03-student.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "ملف الطالب",
+      "duration_s": 10.4,
+      "caption": "«ابني كان فين النهاردة؟»\n\nسؤال كان يحتاج البحث في ستة أماكن. الآن له إجابة واحدة، أمام من يرد على الهاتف.\n\nA question that used to mean searching six places.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "ملف الطالب",
+      "note": "Illustrative demo data · synthesised sound design"
+    },
+    {
+      "id": "r04-attendance",
+      "file": "r04-attendance.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r04-attendance.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "الحضور يُقفل ٨:٠٥",
+      "duration_s": 10.0,
+      "caption": "الحضور يُقفل الساعة ٨:٠٥، وأهل الغائبين يعرفون قبل ٨:١٠.\n\nلا مكالمات، ولا كشف يُراجَع آخر اليوم.\n\nThe register closes at 8:05. Families of absentees know by 8:10.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "الحضور يُقفل ٨:٠٥",
+      "note": "Illustrative demo data · synthesised sound design"
+    },
+    {
+      "id": "r05-fees",
+      "file": "r05-fees.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r05-fees.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "التحصيل بلا مطاردة",
+      "duration_s": 10.6,
+      "caption": "التحصيل نادرًا ما يكون مشكلة نيّة — غالبًا هو مشكلة تذكير.\n\nتذكير في موعده، وإيصال محفوظ، وسِجل يُثبت أن التذكير وصل.\n\nCollection is rarely a willingness problem.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "التحصيل بلا مطاردة",
+      "note": "Illustrative demo data · synthesised sound design"
+    },
+    {
+      "id": "r06-calls",
+      "file": "r06-calls.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r06-calls.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "سؤال واحد، سبع وأربعون مرة",
+      "duration_s": 12.4,
+      "caption": "سؤال واحد يتكرر قبل الظهر عشرات المرات.\n\nالمعلومة موجودة لديكم بالفعل — لكنها لا تصل ما لم يتصل أحد.\n\nThe information already exists. It just doesn't travel.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "سؤال واحد، سبع وأربعون مرة",
+      "note": "Illustrative demo data · synthesised sound design"
+    },
+    {
+      "id": "r07-systems",
+      "file": "r07-systems.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r07-systems.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "ستة أنظمة، ثم واحد",
+      "duration_s": 10.6,
+      "caption": "ستة أنظمة في مكتب المدرسة، ولا واحد منها يتحدث مع الآخر.\n\nهذا ليس فشلًا تقنيًا — هكذا نمت الإدارة المدرسية.\n\nSix systems, none of them talking.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "ستة أنظمة، ثم واحد",
+      "note": "Illustrative demo data · synthesised sound design"
+    },
+    {
+      "id": "r08-fourweeks",
+      "file": "r08-fourweeks.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r08-fourweeks.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "أربعة أسابيع",
+      "duration_s": 10.6,
+      "caption": "أكثر سؤال نسمعه: كم سيعطّلنا هذا؟\n\nأربعة أسابيع من أول مكالمة: مراجعة، ثم نقل البيانات، ثم تدريب الفريق، ثم تشغيل تجريبي والانطلاق.\n\nFour weeks from first call to go-live.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "أربعة أسابيع",
+      "note": "Illustrative demo data · synthesised sound design"
+    },
+    {
+      "id": "r09-enrollment",
+      "file": "r09-enrollment.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r09-enrollment.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "موسم التسجيل",
+      "duration_s": 9.6,
+      "caption": "في موسم التسجيل، يقارن الأهالي ما يستطيعون رؤيته.\n\nالمناهج متقاربة. المباني متقاربة. الفارق الذي يلاحظونه فورًا هو التواصل.\n\nAt enrollment, parents compare what they can see.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "موسم التسجيل",
+      "note": "Illustrative demo data · synthesised sound design"
+    },
+    {
+      "id": "r10-proof",
+      "file": "r10-proof.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/reels/r10-proof.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "title": "مَن يُثبت؟",
+      "duration_s": 14.4,
+      "caption": "وليّ الأمر يقول: لم يُبلغني أحد. والإدارة تقول: أبلغناه.\n\nأن تكون على حق شيء، وأن تستطيع إثباته شيء آخر.\n\nBeing right and proving it are not the same thing.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#مدارس_خاصة #إدارة_مدرسية #تعليم_مصر #NESTI #SchoolManagement #EdTechMENA #SchoolOperations",
+      "alt": "مَن يُثبت؟",
+      "note": "Illustrative demo data · synthesised sound design"
+    }
+  ]
+}
