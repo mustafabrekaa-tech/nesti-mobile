@@ -1,0 +1,79 @@
+{
+  "audience": "schools",
+  "pillar": "education",
+  "generated": "2026-10-24",
+  "base_url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/edu",
+  "count": 5,
+  "items": [
+    {
+      "id": "edu-1-handover",
+      "file": "edu-1-handover.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/edu/edu-1-handover.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "pillar": "education",
+      "title": "أربعة حقول لكل تسليم طالب",
+      "lesson": "Transport handover standard",
+      "duration_s": 12.4,
+      "caption": "معظم سجلات النقل تُسجّل الوصول، وتغفل الاستثناء — ومن لم يصعد هو بالضبط ما ستُسأل عنه لاحقًا.\n\nأربعة حقول تجعل السجل قابلًا للتسليم: الوقت بالدقيقة، اسما المُسلِّم والمُستلِم، الموقع تحديدًا، والاستثناء ومن أُبلغ به.\n\nطبّقها على ورق إن لزم. المهم أن تكون مكتوبة.\n\nFour fields that turn a transport list into a record you can hand over.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#إدارة_مدرسية #مدارس_خاصة #تعليم_مصر #تطوير_المدارس #NESTI #SchoolManagement #SchoolOperations #EdTechMENA",
+      "alt": "أربعة حقول لكل تسليم طالب",
+      "note": "Educational — teaches a method usable without NESTI. Silent: add audio or voiceover at upload."
+    },
+    {
+      "id": "edu-2-notice",
+      "file": "edu-2-notice.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/edu/edu-2-notice.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "pillar": "education",
+      "title": "كيف تكتب إشعارًا واضحًا",
+      "lesson": "Notice-writing rules",
+      "duration_s": 12.0,
+      "caption": "الأسئلة المرتدّة بعد كل إشعار ليست سوء فهم من الأهالي — غالبًا هي صياغة.\n\nثلاث قواعد: ابدأ بالفعل المطلوب لا بالسبب، لا تضع أكثر من تاريخ واحد، واذكر صراحةً من لا يعنيه الأمر.\n\nThree rules that cut the follow-up questions after every school notice.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#إدارة_مدرسية #مدارس_خاصة #تعليم_مصر #تطوير_المدارس #NESTI #SchoolManagement #SchoolOperations #EdTechMENA",
+      "alt": "كيف تكتب إشعارًا واضحًا",
+      "note": "Educational — teaches a method usable without NESTI. Silent: add audio or voiceover at upload."
+    },
+    {
+      "id": "edu-3-attendance",
+      "file": "edu-3-attendance.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/edu/edu-3-attendance.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "pillar": "education",
+      "title": "لماذا يتأخر إقفال الحضور",
+      "lesson": "Attendance process",
+      "duration_s": 12.0,
+      "caption": "تأخّر كشف الحضور نادرًا ما يكون بسبب المعلّم.\n\nالتسجيل يحدث مرتين، ولا يوجد موعد نهائي معلن، والاستثناء يؤجّل الكشف كله.\n\nالقاعدة: الكشف يُقفل في موعده، والاستثناء يُلاحَق بعده.\n\nWhy registers close late, and the rule that fixes it.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#إدارة_مدرسية #مدارس_خاصة #تعليم_مصر #تطوير_المدارس #NESTI #SchoolManagement #SchoolOperations #EdTechMENA",
+      "alt": "لماذا يتأخر إقفال الحضور",
+      "note": "Educational — teaches a method usable without NESTI. Silent: add audio or voiceover at upload."
+    },
+    {
+      "id": "edu-4-collection",
+      "file": "edu-4-collection.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/edu/edu-4-collection.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "pillar": "education",
+      "title": "ثلاثة أخطاء تؤخّر التحصيل",
+      "lesson": "Collection process",
+      "duration_s": 12.0,
+      "caption": "ثلاثة أخطاء شائعة تؤخّر تحصيل الرسوم، ولا علاقة لأيٍّ منها بقدرة الأسرة على الدفع: التذكير الأول متأخر، والإيصال لا يُحفظ، والرسالة تصل لغير المسؤول عن السداد.\n\nThree process errors that delay fee collection — none about ability to pay.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#إدارة_مدرسية #مدارس_خاصة #تعليم_مصر #تطوير_المدارس #NESTI #SchoolManagement #SchoolOperations #EdTechMENA",
+      "alt": "ثلاثة أخطاء تؤخّر التحصيل",
+      "note": "Educational — teaches a method usable without NESTI. Silent: add audio or voiceover at upload."
+    },
+    {
+      "id": "edu-5-keyperson",
+      "file": "edu-5-keyperson.mp4",
+      "url": "https://raw.githubusercontent.com/mustafabrekaa-tech/nesti-mobile/social-assets/edu/edu-5-keyperson.mp4",
+      "format": "reel",
+      "audience": "schools",
+      "pillar": "education",
+      "title": "اختبار «ماذا لو غابت؟»",
+      "lesson": "Key-person risk audit",
+      "duration_s": 12.4,
+      "caption": "اختبار بسيط لأي مدرسة: اختر موظفة أساسية واسأل ماذا يتوقف لو غابت أسبوعًا.\n\nأربعة مواضع تُخفي فيها المدارس مخاطرها: أرقام الأهالي، ترتيب الباصات، الملاحظات الصحية، وتاريخ ما قيل لكل أسرة.\n\nA one-question audit for key-person risk in school operations.\n\nnesticampus.com · واتساب +20 111 428 2332\n\n#إدارة_مدرسية #مدارس_خاصة #تعليم_مصر #تطوير_المدارس #NESTI #SchoolManagement #SchoolOperations #EdTechMENA",
+      "alt": "اختبار «ماذا لو غابت؟»",
+      "note": "Educational — teaches a method usable without NESTI. Silent: add audio or voiceover at upload."
+    }
+  ]
+}
